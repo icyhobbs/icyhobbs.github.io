@@ -43,7 +43,7 @@ nav a:hover {
 }
 
 .wrapper {
-  width: 100%;
+  width: 98%;
   background-color: black;
   display: flex;
   flex-direction: column;
